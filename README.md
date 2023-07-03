@@ -1,4 +1,4 @@
-# SCS-2204---Tutorial_04
+# SCS-2204_Tutorial_04
 SCS 2204 - Functional Programming Scala Tutorial – 4
 
 1. Develop the function of interest. It consumes a deposit amount and produces the actual
