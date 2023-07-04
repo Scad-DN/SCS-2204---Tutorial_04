@@ -1,5 +1,6 @@
-# SCS-2204_Tutorial_04
-SCS 2204 - Functional Programming Scala Tutorial – 4
+# SCS-2204_-Functional_Programming_Tutorials
+
+Scala Tutorial – 4
 
 1. Develop the function of interest. It consumes a deposit amount and produces the actual
 amount of interest that the money earns in a year. The bank pays a flat 2% for deposits of up to
